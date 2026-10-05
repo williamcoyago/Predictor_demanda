@@ -18,3 +18,8 @@ El proyecto está desarrollado en formato .ipynb en Google Colab estructurado de
 1. `predictor_demanda.ipynb`: motor desarrollado en python que ejecuta los pasos previamente explicados.
 2. `readme.md`: descripcion del proyecto y especificaciones.
 3. `Input.xlsx`: dataset utilizado.
+
+## Links adicionales
+
+1. `Repositorio Google`: **https://drive.google.com/drive/folders/1x7v7ce_tGgyS_ATgGz_sx9fI6dxu91Wa?usp=sharing**
+2. `Video explicativo`: **https://youtu.be/UjNx41GtdRg**
